@@ -1,0 +1,5 @@
+Name: S.SYAMALA
+Age:19
+Education: Aditya Degree college
+Address: BC road gajuwaka,visakhapatnam 
+skills: C,java,python.
